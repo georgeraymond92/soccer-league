@@ -1,0 +1,22 @@
+{
+  "name": "soccer-league",
+  "version": "1.0.0",
+  "description": "Code test application for WeConnect Recovery",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/georgeraymond92/soccer-league.git"
+  },
+  "author": "George Raymond",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/georgeraymond92/soccer-league/issues"
+  },
+  "homepage": "https://github.com/georgeraymond92/soccer-league#readme",
+  "dependencies": {
+    "inquirer": "^6.2.2"
+  }
+}
