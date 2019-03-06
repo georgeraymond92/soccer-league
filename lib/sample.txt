@@ -1,0 +1,8 @@
+Lions 3, Snakes 3
+Tarantulas 1, FC Awesome 0
+Lions 1, FC Awesome 1
+Tarantulas 3, Snakes 1
+The Pandas 3, The Dragons 3
+Lions 4, Grouches 0
+Sounders 4, Galaxy 0
+Sounders 0, Hawks 2
